@@ -1,0 +1,2 @@
+# Sluralpright Clone Project <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+![image](https://user-images.githubusercontent.com/84870393/160312022-c1286933-17e1-4a72-991b-4d1558500a62.png)
